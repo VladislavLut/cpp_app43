@@ -10,4 +10,9 @@
       <Filter>Aplication</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Aplication</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
